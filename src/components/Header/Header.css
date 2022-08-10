@@ -1,0 +1,9 @@
+.header {
+    margin-top: 20px;
+}
+
+.header a {
+    text-decoration: none;
+    padding: 20px;
+    color: rgba(0, 0, 0, 0.831);
+}
