@@ -1,0 +1,45 @@
+.home-container {
+    display: flex;
+    margin: 30px 200px;
+}
+
+.text-container {
+    width: 600px;
+    margin-top: 50px;
+}
+
+.tagline-first {
+    color: rgba(0, 0, 0, 0.874);
+}
+
+.tagline-second {
+    color: rgba(0, 0, 255, 0.779);
+    font-size: 30px;
+}
+
+.home-text {
+    font-size: 18px;
+}
+
+.image-container {
+    margin-left: 100px;
+}
+
+.image-container img {
+    width: 500px;
+}
+
+.live-btn {
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: rgba(0, 0, 255, 0.796);
+    background-color: rgba(0, 0, 255, 0.069);
+}
+
+.live-btn:hover {
+    background-color: rgba(0, 0, 255, 0.276);
+}
