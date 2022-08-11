@@ -1,15 +1,15 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import { NavLink } from 'react-router-dom';
 import './Header.css'
 
 const Header = () => {
     return (
         <nav className='header'>
-            <Link to='/home'>HOME</Link>
-            <Link to='/reviews'>REVIEWS</Link>
-            <Link to='/dashboard'>DASHBOARD</Link>
-            <Link to='/blogs'>BLOGS</Link>
-            <Link to='/about'>ABOUT</Link>
+            <NavLink className={({ isActive }) => (isActive ? "active-link" : "link")} to='/home'>HOME</NavLink>
+            <NavLink className={({ isActive }) => (isActive ? "active-link" : "link")} to='/reviews'>REVIEWS</NavLink>
+            <NavLink className={({ isActive }) => (isActive ? "active-link" : "link")} to='/dashboard'>DASHBOARD</NavLink>
+            <NavLink className={({ isActive }) => (isActive ? "active-link" : "link")} to='/blogs'>BLOGS</NavLink>
+            <NavLink className={({ isActive }) => (isActive ? "active-link" : "link")} to='/about'>ABOUT</NavLink>
         </nav>
     );
 };
