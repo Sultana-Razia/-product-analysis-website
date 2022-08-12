@@ -1,0 +1,17 @@
+.blog-container {
+    width: 800px;
+    margin: 40px auto;
+}
+
+.blog-container h2 {
+    color: rgba(0, 0, 255, 0.644);
+    background-color: rgba(0, 0, 255, 0.359);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.blog-container p {
+    color: rgba(0, 0, 0, 0.742);
+    font-weight: 600;
+    font-size: 20px;
+}
