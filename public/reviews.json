@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Fargorunner",
+        "image": "./picture1.jpg",
+        "review": "Great laptop. Highly recommended. Light. Thin great video. Fast. I believe they are selling this product for a great price in order to gain market share and confidence because it's definitely worth more money. I love it",
+        "rating": 5
+    },
+    {
+        "id": 2,
+        "name": "gloria navedo",
+        "image": "./picture2.jpg",
+        "review": "At first this laptop is plain Jane. Once updated and software added it becomes a powerful machine. I'm doing stuff that usually would require a $700 or more laptop. From gaming to communication for sure the poor man's laptop. This laptop is more advance than what you think. Love the Xbox companion console.",
+        "rating": 4
+    },
+    {
+        "id": 3,
+        "name": "Brad F.",
+        "image": "./picture3.jpg",
+        "review": "This lop top exceeded expectation, it is very light, picture quality excellent and super easy to set up It was delivered very quickly and so far I have no complain.",
+        "rating": 5
+    },
+    {
+        "id": 4,
+        "name": "Patrick Delaney",
+        "image": "./picture4.jpg",
+        "review": "Surprisingly good quality build. For less than 400 bucks you get 8 gigs of RAM 256 SSD and the high quality screen that I've only seen on expensive laptops. The saturation was a little high and I had to lower it, but this laptop is a no-brainer. I would definitely recommend it to anyone on a budget.",
+        "rating": 4
+    },
+    {
+        "id": 5,
+        "name": "Olivia.",
+        "image": "./picture5.jpg",
+        "review": "So far this laptop is very nice and smooth, its pretty fast easy to set up as well i like it and the screen is nice and big to very sleek looking. Not bad for the price at all !",
+        "rating": 4
+    },
+    {
+        "id": 6,
+        "name": "Emma.",
+        "image": "./picture6.jpg",
+        "review": "After a few months the contact for the hearing aids no longer works and nobody answers, they have no contact with the seller and I am frustrated, because I lost the money and more because I lose what I paid for the programs added to the computer, and nobody answers me that's why.",
+        "rating": 5
+    }
+]

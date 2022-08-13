@@ -1,7 +1,8 @@
 import React from 'react';
 import './About.css';
 
-const About = () => {
+const About = (props) => {
+    console.log(props.review);
     return (
         <div>
             <h4>This is about page</h4>

@@ -14,7 +14,7 @@
 
 .tagline-second {
     color: rgba(0, 0, 255, 0.779);
-    font-size: 30px;
+    font-size: 25px;
 }
 
 .home-text {
@@ -42,4 +42,17 @@
 
 .live-btn:hover {
     background-color: rgba(0, 0, 255, 0.276);
+}
+
+.home-review-container {
+    margin-top: 50px;
+}
+
+.see-all-btn {
+    color: white;
+    background-color: rgba(0, 0, 255, 0.749);
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
 }
