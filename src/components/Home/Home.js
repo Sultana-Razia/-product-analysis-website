@@ -22,7 +22,7 @@ const Home = (props) => {
             </div>
             <div className='home-review-container'>
                 <h1>Customer Reviews(3)</h1>
-                <div>
+                <div className='review-container'>
                     {
                         reviews.slice(0, 3).map(review => <HomeReview
                             key={review.id}
