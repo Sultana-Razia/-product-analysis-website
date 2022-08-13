@@ -1,3 +1,11 @@
+# laptop Reviews Website
+Website Link: https://laptop-reviews-website.netlify.app/
+* useState
+* useEffect
+* Custom hook
+* use navigate
+* ReChart
+* Vanilla CSS
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
